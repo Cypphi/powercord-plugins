@@ -1,5 +1,4 @@
 # powercord-plugins
-A list of powercord plugins I use.
 
 osu-typing https://github.com/Yumiro/osu-typing.git
 
