@@ -15,5 +15,5 @@ bdCompat: Message Logger V2 https://1lighty.github.io/BetterDiscordStuff/?plugin
 
 ## Install all plugins
 ```
-cd powercord/src/Powercord/plugins && git clone https://github.com/Yumiro/osu-typing.git && git clone https://github.com/VenPlugs/petpet.git  && git clone https://github.com/SammCheese/At-Someone.git && git clone https://github.com/21Joakim/copy-avatar-url && git clone https://github.com/GriefMoDz/scrollable-autocomplete.git && git clone https://github.com/Juby210/bdCompat.git
+cd powercord/src/Powercord/plugins/ && git clone https://github.com/Yumiro/osu-typing.git && git clone https://github.com/VenPlugs/petpet.git  && git clone https://github.com/SammCheese/At-Someone.git && git clone https://github.com/21Joakim/copy-avatar-url && git clone https://github.com/GriefMoDz/scrollable-autocomplete.git && git clone https://github.com/Juby210/bdCompat.git
 ```
