@@ -12,8 +12,7 @@ scrollable-autocomplete https://github.com/GriefMoDz/scrollable-autocomplete.git
 
 PowercordTwemojiEverywhere https://github.com/VenPlugs/PowercordTwemojiEverywhere.git
 
-bdCompat (Message Logger V2 support) https://github.com/Juby210/bdCompat.git
-bdCompat: Message Logger V2 https://1lighty.github.io/BetterDiscordStuff/?plugin=MessageLoggerV2 (copy the JavaScript file to `powercord/src/Powercord/plugins/bdCompat/plugins`.
+bdCompat (Message Logger V2 support) https://github.com/Juby210/bdCompat.git \nbdCompat: Message Logger V2 https://1lighty.github.io/BetterDiscordStuff/?plugin=MessageLoggerV2 (copy the JavaScript file to `powercord/src/Powercord/plugins/bdCompat/plugins`.
 
 ## Install all plugins
 ```
